@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un reposiorio de prueba del moduo 2 del prepcourse de henry
+Este proyeto es una prueba de como crear un commit
